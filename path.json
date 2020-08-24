@@ -1,6 +1,18 @@
-[
-	[
-		"string",
-		"parseLinks"
+{
+	"web": [
+		[
+			"string",
+			"pathFix"
+		]
+	],
+	"node": [
+		[
+			"string",
+			"parseLinks"
+		],
+		[
+			"string",
+			"pathFix"
+		]
 	]
-]
+}
