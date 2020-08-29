@@ -1,0 +1,23 @@
+{
+  "name": "extend-node",
+  "version": "0.0.1",
+  "description": "Tools for node.js.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClintFlames/extend-node.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "extension",
+    "tool"
+  ],
+  "author": "ClintFlames",
+  "license": "SEE LICENSE IN FILE LICENSE",
+  "bugs": {
+    "url": "https://github.com/ClintFlames/extend-node/issues"
+  },
+  "homepage": "https://github.com/ClintFlames/extend-node#readme"
+}
